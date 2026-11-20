@@ -1,0 +1,53 @@
+gamma,cart_status,poleA_status,poleB_status
+0.1,optimal,infeasible,infeasible
+0.2,optimal,infeasible,infeasible
+0.3,optimal,infeasible,infeasible
+0.4,optimal,infeasible,infeasible
+0.5,optimal,infeasible,infeasible
+0.6,optimal,infeasible,infeasible
+0.7,optimal,infeasible,infeasible
+0.8,optimal,infeasible,infeasible
+0.9,optimal,infeasible,infeasible
+1.0,optimal,infeasible,infeasible
+1.1,optimal,infeasible,infeasible
+1.2,optimal,infeasible,infeasible
+1.3,optimal,infeasible,infeasible
+1.4,optimal,infeasible,infeasible
+1.5,optimal,infeasible_inaccurate,"solver_error: Solver 'CLARABEL' failed. Try another solver, or solve with verbose=True for more information."
+1.6,optimal,infeasible,infeasible
+1.7,optimal,"solver_error: Solver 'CLARABEL' failed. Try another solver, or solve with verbose=True for more information.","solver_error: Solver 'CLARABEL' failed. Try another solver, or solve with verbose=True for more information."
+1.8,optimal,infeasible,infeasible
+1.85,optimal,infeasible,infeasible
+1.9,optimal,infeasible,"solver_error: Solver 'CLARABEL' failed. Try another solver, or solve with verbose=True for more information."
+1.95,optimal,"solver_error: Solver 'CLARABEL' failed. Try another solver, or solve with verbose=True for more information.","solver_error: Solver 'CLARABEL' failed. Try another solver, or solve with verbose=True for more information."
+2.0,optimal,infeasible,infeasible
+2.05,optimal,"solver_error: Solver 'CLARABEL' failed. Try another solver, or solve with verbose=True for more information.","solver_error: Solver 'CLARABEL' failed. Try another solver, or solve with verbose=True for more information."
+2.1,infeasible,infeasible,infeasible
+2.15,infeasible,infeasible,infeasible
+2.2,infeasible,infeasible,infeasible
+2.25,infeasible,infeasible,infeasible
+2.3,infeasible,"solver_error: Solver 'CLARABEL' failed. Try another solver, or solve with verbose=True for more information.","solver_error: Solver 'CLARABEL' failed. Try another solver, or solve with verbose=True for more information."
+2.35,infeasible,"solver_error: Solver 'CLARABEL' failed. Try another solver, or solve with verbose=True for more information.","solver_error: Solver 'CLARABEL' failed. Try another solver, or solve with verbose=True for more information."
+2.4,infeasible,"solver_error: Solver 'CLARABEL' failed. Try another solver, or solve with verbose=True for more information.","solver_error: Solver 'CLARABEL' failed. Try another solver, or solve with verbose=True for more information."
+2.45,infeasible,"solver_error: Solver 'CLARABEL' failed. Try another solver, or solve with verbose=True for more information.",infeasible_inaccurate
+2.5,infeasible,infeasible_inaccurate,infeasible_inaccurate
+2.55,infeasible,"solver_error: Solver 'CLARABEL' failed. Try another solver, or solve with verbose=True for more information.","solver_error: Solver 'CLARABEL' failed. Try another solver, or solve with verbose=True for more information."
+2.6,infeasible,"solver_error: Solver 'CLARABEL' failed. Try another solver, or solve with verbose=True for more information.",infeasible_inaccurate
+2.7,infeasible,"solver_error: Solver 'CLARABEL' failed. Try another solver, or solve with verbose=True for more information.",infeasible_inaccurate
+2.8,infeasible,"solver_error: Solver 'CLARABEL' failed. Try another solver, or solve with verbose=True for more information.","solver_error: Solver 'CLARABEL' failed. Try another solver, or solve with verbose=True for more information."
+2.9,infeasible,infeasible_inaccurate,infeasible_inaccurate
+3.0,infeasible,infeasible,infeasible
+3.5,infeasible,infeasible,infeasible
+4.0,infeasible,infeasible,infeasible
+4.5,infeasible,infeasible,infeasible
+5.0,infeasible,infeasible,infeasible
+5.5,infeasible,infeasible,infeasible
+6.0,infeasible,infeasible,"solver_error: Solver 'CLARABEL' failed. Try another solver, or solve with verbose=True for more information."
+6.5,infeasible,infeasible,infeasible
+7.0,infeasible,infeasible,infeasible
+7.5,infeasible,infeasible,infeasible
+8.0,infeasible,infeasible,infeasible
+8.5,infeasible,infeasible,infeasible
+9.0,infeasible,infeasible_inaccurate,infeasible
+9.5,infeasible,infeasible,infeasible
+10.0,infeasible,infeasible,infeasible

@@ -1,0 +1,10 @@
+checkpoint: 1150
+seed: 0
+expression:
+u0 = 0.158 x + -1.016 cos_theta + 7.448 sin_theta + 0.419 dx + 1.417 dtheta + 0.996 x^2 + 0.502 x cos_theta + 1.220 x sin_theta + 0.100 x dx + 0.241 x dtheta + 1.855 cos_theta^2 + 2.443 cos_theta sin_theta + 0.964 cos_theta dx + 0.619 cos_theta dtheta + 2.997 sin_theta^2 + 1.214 sin_theta dx + -0.292 sin_theta dtheta + 0.863 dx^2 + -0.177 dx dtheta + 0.021 dtheta^2 + -0.122 x^3 + -0.532 x^2 cos_theta + 0.394 x^2 sin_theta + -0.321 x^2 dx + -0.002 x^2 dtheta + 0.048 x cos_theta^2 + -0.455 x cos_theta sin_theta + 0.282 x cos_theta dx + -0.125 x cos_theta dtheta + 1.499 x sin_theta^2 + -0.154 x sin_theta dx + 0.317 x sin_theta dtheta + -0.200 x dx^2 + 0.190 x dx dtheta + -0.111 x dtheta^2 + -0.956 cos_theta^3 + -3.406 cos_theta^2 sin_theta + -0.236 cos_theta^2 dx + 0.514 cos_theta^2 dtheta + 1.275 cos_theta sin_theta^2 + -1.385 cos_theta sin_theta dx + 1.581 cos_theta sin_theta dtheta + -0.766 cos_theta dx^2 + 0.528 cos_theta dx dtheta + 0.151 cos_theta dtheta^2 + -1.366 sin_theta^3 + -1.551 sin_theta^2 dx + 0.170 sin_theta^2 dtheta + -0.506 sin_theta dx^2 + 0.412 sin_theta dx dtheta + -0.287 sin_theta dtheta^2 + -0.388 dx^3 + 0.130 dx^2 dtheta + 0.066 dx dtheta^2 + -0.059 dtheta^3
+nn_return: 839.3429755119981
+nn_steps: 1000
+sindy_return: 850.2078192148681
+sindy_steps: 1000
+nn_video: /home/aadarsh-ram/Projects/DDC/sindyPG/results/nn_episode.mp4
+sindy_video: /home/aadarsh-ram/Projects/DDC/sindyPG/results/sindy_episode.mp4

@@ -1,0 +1,4 @@
+SUMMARY side=both policy=nn n_eps=50 gamma_cart=0.5 gamma_pole=0.5 right_limit=1.500 left_limit=-1.700
+mean_ret=189.1 std=4.3
+right violations: 0/50  left violations: 8/50
+worst right overshoot: -0.053  worst left overshoot: 0.338

@@ -1,0 +1,99 @@
+x_limit,gamma,cart_status,poleA_status,poleB_status
+1.2,0.1,optimal,infeasible,infeasible
+1.2,0.3,optimal,infeasible,infeasible
+1.2,0.5,optimal,infeasible,infeasible
+1.2,0.8,optimal,infeasible,infeasible
+1.2,1.0,optimal,infeasible,infeasible
+1.2,1.5,optimal,infeasible,infeasible
+1.2,2.0,optimal,infeasible,infeasible
+1.2,2.5,infeasible,infeasible,infeasible
+1.2,3.0,infeasible,"solver_error: Solver 'CLARABEL' failed. Try another solver, or solve with verbose=True for more information.",infeasible_inaccurate
+1.2,4.0,infeasible,infeasible_inaccurate,infeasible_inaccurate
+1.2,5.0,infeasible,infeasible,infeasible
+1.2,6.0,infeasible,infeasible_inaccurate,infeasible_inaccurate
+1.2,8.0,infeasible,infeasible_inaccurate,infeasible_inaccurate
+1.2,10.0,infeasible,infeasible,infeasible
+1.3,0.1,optimal,infeasible,infeasible
+1.3,0.3,optimal,infeasible,infeasible
+1.3,0.5,optimal,infeasible,infeasible
+1.3,0.8,optimal,"solver_error: Solver 'CLARABEL' failed. Try another solver, or solve with verbose=True for more information.",infeasible
+1.3,1.0,optimal,infeasible,infeasible
+1.3,1.5,optimal,infeasible,infeasible
+1.3,2.0,optimal,infeasible,infeasible
+1.3,2.5,infeasible,infeasible,infeasible
+1.3,3.0,infeasible,infeasible,infeasible
+1.3,4.0,infeasible,"solver_error: Solver 'CLARABEL' failed. Try another solver, or solve with verbose=True for more information.",infeasible
+1.3,5.0,infeasible,infeasible,infeasible
+1.3,6.0,infeasible,infeasible,infeasible
+1.3,8.0,infeasible,infeasible,infeasible
+1.3,10.0,infeasible,infeasible,infeasible
+1.4,0.1,optimal,infeasible,infeasible
+1.4,0.3,optimal,infeasible,infeasible
+1.4,0.5,optimal,infeasible,infeasible
+1.4,0.8,optimal,infeasible,infeasible
+1.4,1.0,optimal,infeasible,infeasible
+1.4,1.5,optimal,infeasible,infeasible
+1.4,2.0,optimal,infeasible_inaccurate,infeasible_inaccurate
+1.4,2.5,infeasible,"solver_error: Solver 'CLARABEL' failed. Try another solver, or solve with verbose=True for more information.","solver_error: Solver 'CLARABEL' failed. Try another solver, or solve with verbose=True for more information."
+1.4,3.0,infeasible,"solver_error: Solver 'CLARABEL' failed. Try another solver, or solve with verbose=True for more information.","solver_error: Solver 'CLARABEL' failed. Try another solver, or solve with verbose=True for more information."
+1.4,4.0,infeasible,infeasible,"solver_error: Solver 'CLARABEL' failed. Try another solver, or solve with verbose=True for more information."
+1.4,5.0,infeasible,infeasible,infeasible
+1.4,6.0,infeasible,infeasible,infeasible
+1.4,8.0,infeasible,infeasible,infeasible
+1.4,10.0,infeasible,infeasible_inaccurate,infeasible
+1.5,0.1,optimal,infeasible,infeasible
+1.5,0.3,optimal,infeasible,infeasible
+1.5,0.5,optimal,infeasible,infeasible
+1.5,0.8,optimal,infeasible,infeasible
+1.5,1.0,optimal,infeasible,infeasible
+1.5,1.5,optimal,infeasible,infeasible
+1.5,2.0,optimal,infeasible,infeasible
+1.5,2.5,infeasible,infeasible,infeasible
+1.5,3.0,infeasible,"solver_error: Solver 'CLARABEL' failed. Try another solver, or solve with verbose=True for more information.",infeasible_inaccurate
+1.5,4.0,infeasible,infeasible,infeasible
+1.5,5.0,infeasible,"solver_error: Solver 'CLARABEL' failed. Try another solver, or solve with verbose=True for more information.","solver_error: Solver 'CLARABEL' failed. Try another solver, or solve with verbose=True for more information."
+1.5,6.0,infeasible,infeasible,infeasible
+1.5,8.0,infeasible,infeasible,infeasible
+1.5,10.0,infeasible,infeasible,infeasible
+1.6,0.1,optimal,infeasible,infeasible
+1.6,0.3,optimal,infeasible,infeasible
+1.6,0.5,optimal,infeasible,infeasible
+1.6,0.8,optimal,infeasible,infeasible
+1.6,1.0,optimal,infeasible,infeasible
+1.6,1.5,optimal,infeasible,infeasible
+1.6,2.0,optimal,"solver_error: Solver 'CLARABEL' failed. Try another solver, or solve with verbose=True for more information.","solver_error: Solver 'CLARABEL' failed. Try another solver, or solve with verbose=True for more information."
+1.6,2.5,infeasible,infeasible,infeasible
+1.6,3.0,infeasible,infeasible_inaccurate,"solver_error: Solver 'CLARABEL' failed. Try another solver, or solve with verbose=True for more information."
+1.6,4.0,infeasible,"solver_error: Solver 'CLARABEL' failed. Try another solver, or solve with verbose=True for more information.","solver_error: Solver 'CLARABEL' failed. Try another solver, or solve with verbose=True for more information."
+1.6,5.0,infeasible,infeasible,infeasible
+1.6,6.0,infeasible,infeasible,infeasible
+1.6,8.0,infeasible,infeasible,infeasible
+1.6,10.0,infeasible,infeasible,"solver_error: Solver 'CLARABEL' failed. Try another solver, or solve with verbose=True for more information."
+1.7,0.1,optimal,infeasible,infeasible
+1.7,0.3,optimal,infeasible,infeasible
+1.7,0.5,optimal,infeasible,infeasible
+1.7,0.8,optimal,infeasible,infeasible
+1.7,1.0,optimal,infeasible,infeasible
+1.7,1.5,optimal,infeasible,infeasible
+1.7,2.0,optimal,infeasible,infeasible
+1.7,2.5,infeasible,infeasible,infeasible
+1.7,3.0,infeasible,"solver_error: Solver 'CLARABEL' failed. Try another solver, or solve with verbose=True for more information.","solver_error: Solver 'CLARABEL' failed. Try another solver, or solve with verbose=True for more information."
+1.7,4.0,infeasible,infeasible,infeasible
+1.7,5.0,infeasible,infeasible,infeasible
+1.7,6.0,infeasible,infeasible,infeasible
+1.7,8.0,infeasible,infeasible,infeasible
+1.7,10.0,infeasible,infeasible,infeasible
+1.75,0.1,optimal,infeasible,infeasible
+1.75,0.3,optimal,infeasible,infeasible
+1.75,0.5,optimal,infeasible,infeasible
+1.75,0.8,optimal,"solver_error: Solver 'CLARABEL' failed. Try another solver, or solve with verbose=True for more information.",infeasible
+1.75,1.0,optimal,infeasible,infeasible
+1.75,1.5,optimal,infeasible,infeasible
+1.75,2.0,optimal,"solver_error: Solver 'CLARABEL' failed. Try another solver, or solve with verbose=True for more information.","solver_error: Solver 'CLARABEL' failed. Try another solver, or solve with verbose=True for more information."
+1.75,2.5,infeasible,"solver_error: Solver 'CLARABEL' failed. Try another solver, or solve with verbose=True for more information.","solver_error: Solver 'CLARABEL' failed. Try another solver, or solve with verbose=True for more information."
+1.75,3.0,infeasible,infeasible,infeasible
+1.75,4.0,infeasible,infeasible,infeasible
+1.75,5.0,infeasible,infeasible,infeasible
+1.75,6.0,infeasible,infeasible,infeasible
+1.75,8.0,infeasible,infeasible,infeasible
+1.75,10.0,infeasible,"solver_error: Solver 'CLARABEL' failed. Try another solver, or solve with verbose=True for more information.",infeasible
